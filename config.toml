@@ -1,0 +1,4 @@
+baseURL = "https://ymatsumo.github.io/"
+languageCode = "ja-jp"
+title = "ymatsumo Tech Documentation"
+theme = "learn"
